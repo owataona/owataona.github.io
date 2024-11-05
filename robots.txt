@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owataona.github.io/JSa/sitemap_index.txt
+Sitemap: https://owataona.github.io/NVH/sitemap_index.txt
+Sitemap: https://owataona.github.io/eRL/sitemap_index.txt
+Sitemap: https://owataona.github.io/xLw/sitemap_index.txt
